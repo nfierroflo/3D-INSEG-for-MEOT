@@ -2,31 +2,31 @@ Due to memory limitations, only one scenario is presented. Below are the analyze
 
 ## Crossing Path Sequence
 <div align="center">
-  ![Crossing Path Sequence](crossingpath.gif)
+  <img src="crossingpath.gif" alt="Crossing Path Sequence" />
 </div>
 
 Estimates when the laser data is processed by the PMBM-GGIW algorithm:
 
 ## Laser Data Estimates
 <div align="center">
-  ![Laser Data Estimates](velodynegif_2.gif)
+  <img src="velodynegif_2.gif" alt="Laser Data Estimates" />
 </div>
 
 Estimates when the 3D-INSEG data is processed by the PMBM-GGIW algorithm:
 
 ## 3D-INSEG Data Estimates
 <div align="center">
-  ![3D-INSEG Data Estimates](3dinseggif.gif)
+  <img src="3dinseggif.gif" alt="3D-INSEG Data Estimates" />
 </div>
 
 Comparison of the performances:
 
 ## Performance Metrics Comparison
 <div align="center">
-  ![Performance Metrics Comparison](comparison_metrics.jpg)
+  <img src="comparison_metrics.jpg" alt="Performance Metrics Comparison" />
 </div>
 
 ## Cardinality Comparison
 <div align="center">
-  ![Cardinality Comparison](cardinality_comparison.jpg)
+  <img src="cardinality_comparison.jpg" alt="Cardinality Comparison" />
 </div>
