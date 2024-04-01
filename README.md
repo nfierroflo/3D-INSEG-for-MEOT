@@ -1,16 +1,25 @@
 # 3D-INSEG-for-MEOT
-Demonstrations and code for MEOT with 3D-INSEG Algorithm.\
-The setup that was used:
-![Alt text](images/husky.jpg?raw=true "Title")
-An example of one frame is shown:
-- Measurements:
-![Alt text](images/measurements.png?raw=true "Title")
-- Stereo pair:
-![Alt text](images/im0.jpg?raw=true "Title")
-![Alt text](images/im1.jpg?raw=true "Title")
-- Disparity map:
-![Alt text](images/dispmap.png?raw=true "Title")
-- Instance Segmentation:
-![Alt text](images/sgmentation_example.png?raw=true "Title")
--3D Instance Segmentation:
-![Alt text](images/12la.jpg?raw=true "Title") for more details the [3d graph in .html](https://link-url-here.org) format is provided.
+
+Demonstrations and code for MEOT with 3D-INSEG Algorithm.
+
+## Setup Used
+![Husky Image](images/husky.jpg?raw=true "Husky")
+
+## Example Frame
+- **Measurements:**
+  ![Measurements](images/measurements.png?raw=true "Measurements")
+
+- **Stereo Pair:**
+  ![Stereo Image 1](images/im0.jpg?raw=true "Stereo Image 1")
+  ![Stereo Image 2](images/im1.jpg?raw=true "Stereo Image 2")
+
+- **Disparity Map:**
+  ![Disparity Map](images/dispmap.png?raw=true "Disparity Map")
+
+- **Instance Segmentation:**
+  ![Segmentation Example](images/segmentation_example.png?raw=true "Segmentation Example")
+
+- **3D Instance Segmentation:**
+  ![3D Instance Segmentation](images/12la.jpg?raw=true "3D Instance Segmentation")
+
+  For more details, view the [3D graph](images/velodyne.html)  in .html format.
