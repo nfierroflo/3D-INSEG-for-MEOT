@@ -26,7 +26,7 @@ Comparison of the performances:
   <img src="comparison_metrics.jpg" alt="Performance Metrics Comparison" />
 </div>
 
-## Cardinality Comparison
+## Targets cardinality estimated by the extended PMBM filter using the laser data and the 3D-INSEG data
 <div align="center">
   <img src="cardinality_comparison.jpg" alt="Cardinality Comparison" />
 </div>
