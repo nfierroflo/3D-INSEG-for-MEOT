@@ -5,6 +5,8 @@ Due to memory limitations, only one scenario is presented. Below are the analyze
   <img src="crossingpath.gif" alt="Crossing Path Sequence" />
 </div>
 
+This [video](https://youtu.be/QC90xarYXYo) displays the resulting measurements through an animation.
+
 Estimates when the laser data (with survaillence area [-2,2] meters for x-axis and [0,5] meters for z-axis) is processed by the PMBM-GGIW algorithm:
 
 ## Laser Data Estimates
