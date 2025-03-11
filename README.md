@@ -1,7 +1,7 @@
 # 3D-INSEG-for-MEOT
 
 Demonstrations and code for MEOT with 3D-INSEG Algorithm.
-[Video]([3D graph in .html](images/velodyne.html))
+([Video](https://youtu.be/scPRhsJunwA?si=6tnOo4mSjJsfQ2vJ))
 
 ## Setup Used
 <div align="center">
